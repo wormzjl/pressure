@@ -1,0 +1,16 @@
+tile.pressure.input.name=高压输入口
+tile.pressure.output.name=高压输出口
+tile.pressure.pipe.name=高压管道
+tile.pressure.pump.name=高压泵
+tile.pressure.water.name=无限水源
+
+item.pressure.Debugger.name=压力系统Debug工具
+item.pressure.Interface.name=压力系统界面
+item.pressure.HandPump.name=手泵
+item.pressure.Canister.name=罐
+
+pressure.label.filter.set=设置液体过滤器为: %s
+pressure.label.filter.unset=移除液体过滤器
+
+itemGroup.bdew.pressure=压力管道系统
+itemGroup.bdew.canisters=液体罐
